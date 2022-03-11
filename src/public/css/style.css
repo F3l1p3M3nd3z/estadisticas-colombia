@@ -1,0 +1,85 @@
+section {
+  background: #F5F5F5;
+}
+
+.apoyo svg {
+  fill: gray;
+  width: 2rem;
+  height: 2rem;
+}
+
+.apoyo svg path {
+  fill-rule: evenodd;
+}
+
+#datos .progress {
+  margin-top: 10px;
+}
+
+#datos .align {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  text-align: center;
+}
+
+#datos .circulo {
+  width: 8rem;
+  height: 8rem;
+  border-radius: 50%;
+  background: red;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  margin: 0px auto;
+  padding: 3%;
+}
+
+#datos .circulo h5 {
+  font-family: sans-serif;
+  color: white;
+  font-size: 4.4rem;
+  font-weight: bold;
+}
+
+.map {
+  fill: #F5F5F5;
+  height: 500px;
+  width: 400px;
+  stroke: #333232;
+  stroke-width: 2px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+#colum-feedback {
+  text-align: center;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+
+.consulta {
+  margin-top: 20%;
+  text-align: center;
+}
+
+#btncerrar {
+  width: 3.4rem;
+  height: 3.4rem;
+  fill: none;
+}
+
+.right {
+  -webkit-box-pack: right;
+      -ms-flex-pack: right;
+          justify-content: right;
+}
+/*# sourceMappingURL=style.css.map */

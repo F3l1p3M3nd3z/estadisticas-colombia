@@ -1,0 +1,15 @@
+[
+  {
+    "id_opnion": "01",
+    "id_ubicacion": "popayan",
+    "nombre": "felipe",
+    "edad": "23",
+    "calificacion_movilidad": "0",
+    "calificacion_desarrollo": "0",
+    "calificacion_empleo": "0",
+    "calificacion_seguridad": "0",
+    "calificacion_salud": "0",
+    "calificacion_gestion": "0",
+    "calificacion_educacion": "0"
+  }
+]

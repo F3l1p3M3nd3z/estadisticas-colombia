@@ -1,0 +1,80 @@
+
+section{
+    background : #F5F5F5;    
+}
+
+.apoyo svg{
+    fill : gray;
+    width :  2rem;
+    height : 2rem;
+    path{
+        fill-rule : evenodd ;     
+    }
+};
+
+#datos{
+   // align-self: center;
+    //text-align: center;
+
+    .progress{
+        margin-top : 10px;
+    }
+
+    .align{
+        align-self: center;
+        text-align: center;
+    }
+
+    .circulo {
+        width: 8rem;
+        height: 8rem;
+        border-radius: 50%;
+        background: red;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin:0px auto;
+        padding:3%;
+
+      h5 {
+        font-family: sans-serif;
+        color: white;
+        font-size: 4.4rem;
+        font-weight: bold;
+    }; 
+
+    }
+  
+};
+
+.map{
+    fill : #F5F5F5;
+    height : 500px;
+    width : 400px;
+    stroke : #333232;
+    stroke-width : 2px;
+    stroke-linecap :round ;
+    stroke-linejoin :round;
+    
+};
+
+#colum-feedback{
+    text-align : center;
+    align-self : center;
+}
+
+.consulta{
+    margin-top : 20%;
+    text-align : center;
+}
+
+#btncerrar{
+    width : 3.4rem;
+    height :  3.4rem;
+    fill : none; 
+   
+}
+.right{
+    justify-content: right;
+}
